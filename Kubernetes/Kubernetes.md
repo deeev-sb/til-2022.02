@@ -105,7 +105,7 @@
   - Pod로 연결되는 네트워크 관리
 
 
-#### 출처
+#### Reference
 Kubernetes 공식문서 (https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/) <br/>
 KT Cloud (https://cloud.kt.com/portal/user-guide/education-eduadvanced-edu_adv_3) <br/>
 쿠버네티스 시작하기 - Kubernetes란 무엇인가?  (https://subicura.com/2019/05/19/kubernetes-basic-1.html) <br/>
