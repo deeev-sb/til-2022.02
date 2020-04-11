@@ -36,7 +36,7 @@
 - Docker hub : Docker hub를 통해 공개 이미지를 무료로 관리
 
 
-#### 출처
+#### Reference
 Docker 공식문서 (https://docs.docker.com/engine/docker-overview/) <br/>
 KT Cloud (https://cloud.kt.com/portal/user-guide/education-eduadvanced-edu_adv_2) <br/>
 초보를 위한 도커 안내서 - 도커란 무엇인가? (https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
