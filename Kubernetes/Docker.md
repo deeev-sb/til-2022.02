@@ -21,7 +21,7 @@
   - Docker daemon : docker api 요청을 수신하고 image, container, network, volume과 같은 docker object를 관리. 다른 docker daemon과의 통신을 통해 서비스 관리 가능
  - Docker Registry : Docker 이미지 저장소
  - Image : 컨테이너 실행에 필요한 파일과 설정 값 등을 포함하고 있는 것으로 상태 값을 가지지 않고 변하지 않음(Immutable). 공식 이미지의 경우 해당 이미지를 실행하기 위한 모든 것이 세팅 되어 있음.
-
+    
 ### Docker 특징
 ![DockerContainerLayer](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/image-layer.png)
 - 레이어 저장방식
