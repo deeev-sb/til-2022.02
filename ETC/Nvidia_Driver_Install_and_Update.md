@@ -1,4 +1,5 @@
-<p>[##_Image|kage@lY5cN/btqDrkNf7LT/GkilfxNovjUJm7uaDVaXZ0/img.png|alignCenter|data-origin-width="0" data-origin-height="0" width="400"|Nvidia logo||_##]</p>
+<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/logo_NVIDIA.png" width="300" height="300"></p>
+
 <p style="font-size: 1.25em;" data-ke-size="size18"><b>▶ 시작 전 환경 구성</b></p>
 <pre id="code_1586814527199" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ sudo apt-get upgrade
 
@@ -12,7 +13,9 @@ $ sudo apt-get install build-essential</code></pre>
 <pre id="code_1586815312728" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ sudo apt install inxi
 
 $ inxi -G</code></pre>
-<p>[##_Image|kage@czSgLk/btqDp11FuB4/pdj1QSZUmKtgsEbNx0Rij1/img.png|alignCenter|data-origin-width="0" data-origin-height="0"|inxi -G를 사용해 그래픽 확인||_##]</p>
+
+<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(1).PNG"></p>
+
 <p>&nbsp;</p>
 <p style="font-size: 1.25em;" data-ke-size="size18"><b><span style="color: #333333;"><b>▶ </b>nouveau 제거 및 blacklist 등록</span></b></p>
 <p style="font-size: 1.12em;" data-ke-size="size16"><span style="color: #333333;">아래 경로에 black<span style="color: #333333;">list 파일을 생성한다.</span></span></p>
@@ -38,10 +41,14 @@ $ sudo ubuntu-drivers autoinstall
 $ sudo reboot</code></pre>
 <p style="font-size: 1.12em;" data-ke-size="size16">재부팅 후에 아래 명령어를 통해서 Nvidia driver 설치 여부를 확인한다.</p>
 <pre id="code_1586816891234" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ nvidia-smi</code></pre>
-<p>[##_Image|kage@dok4wM/btqDn19rQEq/fqHmxox5R6FNov5YRSKFK1/img.png|alignCenter|data-origin-width="0" data-origin-height="0"|Nvidia driver가 설치되었을 경우 nvidia-smi로 확인 가능||_##]</p>
+
+<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(2).png"></p>
+
 <p>inix를 통해 그래픽을 확인해본다.</p>
 <pre id="code_1586939853963" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>inxi -G</code></pre>
-<p>[##_Image|kage@bWRpJZ/btqDqjhOYqd/G8BExSVeOZsWmvUiiqCsaK/img.png|alignCenter|data-origin-width="0" data-origin-height="0"|inxi를 통해 확인한 그래픽 드라이버||_##]</p>
+
+<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(3).PNG"></p>
+
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" />
 <p style="font-size: 1.12em;" data-ke-size="size16"><b>🔗 Reference</b></p>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
