@@ -56,3 +56,4 @@ $ sudo reboot</code></pre>
 <li><a href="https://driz2le.tistory.com/254" target="_blank" rel="noopener"><span style="color: #666666; letter-spacing: 0px;">ubuntu 18.04 - 우분투(Ubuntu) nvidia driver 설치 및 업그레이드</span></a></li>
 </ul>
 <p>&nbsp;</p>
+
