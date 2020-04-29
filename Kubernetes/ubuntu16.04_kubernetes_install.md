@@ -43,7 +43,7 @@
        ~~~
        $ sudo docker run hello-world
        ~~~
-
+    
 ### [Install kubeadm, kubelet, kubectl](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 - kubeadm: the command to bootstrap the cluster.
 - kubelet: the component that runs on all of the machines in your cluster and does things like starting pods and containers.
