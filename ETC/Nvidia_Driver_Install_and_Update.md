@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/logo_NVIDIA.png" width="300" height="300"></p>
 
-
 <p style="font-size: 1.25em;" data-ke-size="size18"><b>▶ 시작 전 환경 구성</b></p>
 <pre id="code_1586814527199" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ sudo apt-get upgrade
 
