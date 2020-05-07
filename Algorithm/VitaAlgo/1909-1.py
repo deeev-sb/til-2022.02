@@ -10,3 +10,4 @@ def choice(team, my):
 team_choice = list(map(int, input().split()))
 my_choice = list(map(int, input().split()))
 print(choice(team_choice, my_choice))
+
