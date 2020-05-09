@@ -1,6 +1,5 @@
 # 시공의 폭풍 속으로 (Level 1)
 
-
 def choice(team, my):
 	selectable = 0
 	for i in my:
