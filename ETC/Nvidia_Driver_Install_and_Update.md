@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/logo_NVIDIA.png" width="300" height="300"></p>
+<p align="center"><img src="../img/logo_NVIDIA.png" width="300" height="300">
 
 <p style="font-size: 1.25em;" data-ke-size="size18"><b>▶ 시작 전 환경 구성</b></p>
 <pre id="code_1586814527199" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ sudo apt-get upgrade
@@ -14,7 +14,7 @@ $ sudo apt-get install build-essential</code></pre>
 
 $ inxi -G</code></pre>
 
-<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(1).PNG"></p>
+<p align="center"><img src="../img/Nvidia_Driver_Install_and_Update(1).PNG"></p>
 
 <p>&nbsp;</p>
 <p style="font-size: 1.25em;" data-ke-size="size18"><b><span style="color: #333333;"><b>▶ </b>nouveau 제거 및 blacklist 등록</span></b></p>
@@ -42,12 +42,12 @@ $ sudo reboot</code></pre>
 <p style="font-size: 1.12em;" data-ke-size="size16">재부팅 후에 아래 명령어를 통해서 Nvidia driver 설치 여부를 확인한다.</p>
 <pre id="code_1586816891234" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>$ nvidia-smi</code></pre>
 
-<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(2).png"></p>
+<p align="center"><img src="../img/Nvidia_Driver_Install_and_Update(2).png"></p>
 
 <p>inix를 통해 그래픽을 확인해본다.</p>
 <pre id="code_1586939853963" class="html xml" data-ke-language="html" data-ke-type="codeblock"><code>inxi -G</code></pre>
 
-<p align="center"><img src="https://github.com/Kim-SuBin/TIL/blob/master/img/Nvidia_Driver_Install_and_Update(3).PNG"></p>
+<p align="center"><img src="../img/Nvidia_Driver_Install_and_Update(3).PNG"></p>
 
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" />
 <p style="font-size: 1.12em;" data-ke-size="size16"><b>🔗 Reference</b></p>
