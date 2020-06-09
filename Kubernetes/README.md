@@ -4,11 +4,11 @@
 
 [docker install](./docker_install.sh)  
 docker가 정상적으로 설치되면 아래와 같다.
-<p align="center"><img src="../img/Kubeflow_install(1).PNG"></p>
+<p align="center"><img src="../img/Kubernetes_install(1).PNG"></p>
 
 [nvidia-docker install](./nvidia-docker_install.sh)  
 만약 nvidia driver가 설치되어 있으면 아래와 같다.
-<p align="center"><img src="../img/Kubeflow_install(2).PNG"></p>
+<p align="center"><img src="../img/Kubernetes_install(2).PNG"></p>
 
 설치가 되어 있지 않다면, nvidia driver를 설치하고 업데이트 해준다.  
 [nvidia driaver install and update](../ETC/Nvidia_Driver_install_and_Update.md)
@@ -16,7 +16,7 @@ docker가 정상적으로 설치되면 아래와 같다.
 nvidia driver를 설치하고 나면 nvidia-docker를 설치한다.
 [nvidia-docker install](./nvidia-docker_install.sh)  
 nvidia-docker가 설치되면 아래와 같다.
-<p align="center"><img src="../img/Kubeflow_install(3).PNG"></p>
+<p align="center"><img src="../img/Kubernetes_install(3).PNG"></p>
 
 <br>
 
