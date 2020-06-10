@@ -23,7 +23,7 @@ Nvidia Driver가 설치되면 다음과 같이 확인 가능하다.
 
 Docker 설치 후 hello-world 이미지가 실행되면 Docker가 정상적으로 깔린 것이다.
 
-![Docker_install](../img/kubeflow_install(2).PNG)
+![Docker_install](../img/Kubeflow_install(2).PNG)
 
 컨테이너에서 GPU를 사용하기 위해서 nvidia-docker2를 설치해야한다.
 
@@ -31,7 +31,7 @@ Docker 설치 후 hello-world 이미지가 실행되면 Docker가 정상적으�
 
 nvidia-docker2가 정상적으로 설치되면 다음과 같이 확인 가능하다.
 
-![nvidia-docker2_install](../img/kubeflow_install(3).PNG)
+![nvidia-docker2_install](../img/Kubeflow_install(3).PNG)
 
 <br>
 
@@ -52,11 +52,11 @@ Kubernetes Master Node의 경우 kubeadm init 명령어를 통해 초기화시�
 
 Kubernetes 접속이 되면 다음과 같다.
 
-![Kubernetes_Connect](../img/kubeflow_install(4).PNG)
+![Kubernetes_Connect](../img/Kubeflow_install(4).PNG)
 
 cilim 포드의 READY가 1/1dl ehlaus, Kubernetes Cluster를 사용할 수 있다.
 
-![Master_install_finish](../img/kubeflow_install(5).PNG)
+![Master_install_finish](../img/Kubeflow_install(5).PNG)
 
 Kubernetes Worker Node의 경우 kubeadm join 명령어를 통해 Master Node와 연결해준다.
 
@@ -88,7 +88,7 @@ device-plugin 포드가 정상적으로 작동했는지 확인한다.
 kubectl -n kube-system get pod -l name=nvidia-device-plugin-ds
 ~~~
 
-![device-plugin_확인](../img/kubeflow_install(6).PNG)
+![device-plugin_확인](../img/Kubeflow_install(6).PNG)
 
 <br>
 
@@ -110,9 +110,11 @@ Kubeflow를 쉽게 설치하기 위해서는 동적 볼륨 프로비저너가(dy
 [Dynamic Volume Provisioner 설치하기](./provisioner_install.sh)
 
 local path를 기본으로 설정하기 전
+
 ![local path를 기본으로 설정하기 전](../img/Kubeflow_install(7).PNG)
 
 local path를 기본으로 설정하기 후
+
 ![local path를 기본으로 설정하기 후](../img/Kubeflow_install(8).PNG)
 
 Kubeflow를 설치하기 위해서, kftctl을 릴리즈 페이지에서 다운로드 합니다. 현재 v1.0 버전이 최신이므로, v1.0 버전을 기준으로 설치했습니다.
@@ -125,12 +127,17 @@ Kubeflow namespace와 istio-system namespace의 포드를 명령어를 통해 �
 # Kubeflow namespace 조회
 kubectl -n kubeflow get pod
 ~~~
+
 ![Kubeflow namespace 조회](../img/Kubeflow_install(9).PNG)
+
 ~~~
 # istio-system namespace 조회
 kubectl -n istio-system get pod
 ~~~
+
 ![istio-system namespace 조회](../img/Kubeflow_install(10).PNG)
+
+<br>
 
 ### Kubeflow 접속하기
 
@@ -161,6 +168,7 @@ Namespace가 생성되면, Kubeflow Dashborad 화면을 볼 수 있다.
 
 <br>
 <br>
+
 ---
 🔗 **Reference**  
 - https://docs.docker.com/install/linux/docker-ce/ubuntu/
