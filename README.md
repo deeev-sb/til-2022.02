@@ -2,5 +2,4 @@
 
 Today I Learned ♥️
 
-Algorithm, Kubernetes, ETC.
-
+Algorithm, Kubernetes, ETC!
