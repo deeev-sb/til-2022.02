@@ -2,4 +2,4 @@
 
 Today I Learned ♥️
 
-Algorithm, Kubernetes, ETC!
+Algorithm, Docker, Kubernetes, Kuberflow, ETC.
