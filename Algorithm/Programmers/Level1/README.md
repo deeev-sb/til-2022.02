@@ -1,6 +1,6 @@
 # Level 1
 
-푼 순서대로
+Python
 - [두 정수 사이의 합](./solution(1).py)
 - [문자열 내림차순으로 배치하기](./solution(2).py)
 - [평균 구하기](./solution(3).py)
