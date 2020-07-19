@@ -1,5 +1,9 @@
 # Level 1
 
+## Table of Contents
+- Python
+- C++
+
 ### Python
 - [두 정수 사이의 합](./solution(1).py)
 - [문자열 내림차순으로 배치하기](./solution(2).py)
@@ -38,6 +42,7 @@
 - [예산](./solution(35).py)
 - [[1차]비밀지도](./solution(36).py)
 - [[2020 카카오 인턴]키패드 누르기](./solution(37).py)
+
 
 ### C++
 - [두 정수 사이의 합](./solution(1).cpp)
