@@ -2,8 +2,8 @@
 
 ### Table of Contents
 
-- [Python](###Python)
-- [C++](###C++)
+- [Python](#Python)
+- [C++](#C)
 
 ---
 
