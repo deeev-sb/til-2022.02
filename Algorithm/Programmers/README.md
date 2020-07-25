@@ -3,3 +3,5 @@
 프로그래머스에 있는 코딩 테스트 문제  
 
 ### [Level 1](./Level1/README.md)
+- python
+- c++
