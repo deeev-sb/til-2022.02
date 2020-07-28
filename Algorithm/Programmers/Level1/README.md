@@ -48,6 +48,7 @@
 - [[2020 카카오 인턴]키패드 누르기](./solution(37).py)
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](./solution(38).py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](./solution(39).py)
+- 2019 KAKAO BLIND RECRUITMENT 실패율 → runtime error (수행시간 줄이기!)
 
 ---
 
