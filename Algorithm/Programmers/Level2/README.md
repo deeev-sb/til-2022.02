@@ -1,12 +1,5 @@
 # Level 2
 
-### Table of Contents
-
-- [Python](#Python)
-- [C++](#C)
-
----
-
 ### Python
 - [최댓값과 최솟값](./solution(1).py)
 - [올바른 괄호](./solution(2).py)
@@ -14,7 +7,6 @@
 - [최솟값 만들기](./solution(4).py)
 - [N개의 최소공배수](./solution(5).py)
 - [전화번호 목록](./solution(6).py)
-
----
-
-### C++
+- [기능개발](./solution(7).py)
+- [위장](solution(8).py)
+- [주식가격](silution(9).py)
