@@ -1,5 +1,14 @@
 # TIL (Today I Learned)
 
+<p>
+  <a href="https://github.com/Kim-SuBin/TIL"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-SuBin%2FTIL"/>
+  </a>
+  <a href="https://subin-0320.tistory.com/">
+     <img alt="tistory" src="https://img.shields.io/badge/-Tistory-darkgreen?logo=github" />
+  </a>
+</p>
+
 <details>
 <summary>Github Stats🐤</summary>
   
