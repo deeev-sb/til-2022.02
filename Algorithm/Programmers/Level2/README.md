@@ -8,5 +8,6 @@
 - [N개의 최소공배수](./solution(5).py)
 - [전화번호 목록](./solution(6).py)
 - [기능개발](./solution(7).py)
-- [위장](solution(8).py)
-- [주식가격](silution(9).py)
+- [위장](./solution(8).py)
+- [주식가격](./solution(9).py)
+- [프린터](./solution(10).py)
