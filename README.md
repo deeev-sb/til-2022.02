@@ -78,9 +78,6 @@
    </details>
 - VitaAlgo
 
-### 📗 Spring
-- Study-Spring
-
 ### 📙 Android
 - ListView
 - QRcode
