@@ -1,8 +1,6 @@
 # TIL (Today I Learned)
 
 <p>
-  
-  ![HitCount](http://hits.dwyl.com/Kim-SuBin/TIL.svg)
   <a href="https://subin-0320.tistory.com/">
      <img alt="tistory" src="https://img.shields.io/badge/-Tistory-darkgreen?logo=github" />
   </a>
@@ -75,6 +73,7 @@
    - 프린터
    
    </details>
+- Python Algorithm
 - VitaAlgo
 
 ### 📙 Android
