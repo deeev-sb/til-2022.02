@@ -2,8 +2,11 @@
 
 ### Table of Contents
 
-- [Python](#Python)
-- [C++](#C)
+- [Level 1](#level-1)
+    - [Table of Contents](#table-of-contents)
+    - [Python](#python)
+    - [C++](#c)
+    - [MySQL](#mysql)
 
 ---
 
@@ -59,3 +62,18 @@
 - [평균 구하기](./solution(3).cpp)
 - [약수의 합](./solution(4).cpp)
 - [짝수와 홀수](./solution(5).cpp)
+
+---
+
+### MySQL
+
+- [최댓값 구하기](./solution_1.sql)
+- [모든 레코트 조회하기](./solution_2.sql)
+- [역순 정렬하기](./solution_3.sql)
+- [아픈 동물 찾기](./solution_4.sql)
+- [어린 동물 찾기](./solution_5.sql)
+- [동물의 아이디와 이름](./solution_6.sql)
+- [이름이 없는 동물의 아이디](./solution_7.sql)
+- [여러 기준으로 정렬하기](./solution_8.sql)
+- [이름이 있는 동물의 아이디](./solution_9.sql)
+- [상위 n개 레코드](./solution_10.sql)
