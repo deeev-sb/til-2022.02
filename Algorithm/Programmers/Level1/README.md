@@ -1,9 +1,8 @@
 # Level 1
 
-### Table of Contents
+📋 Table of Contents
 
 - [Level 1](#level-1)
-    - [Table of Contents](#table-of-contents)
     - [Python](#python)
     - [C++](#c)
     - [MySQL](#mysql)
