@@ -1,6 +1,6 @@
 # Section 0. 파이썬 기초 문법 (선수지식)
 
-📋 Table of Contents
+**📋 Table of Contents**
 - [Section 0. 파이썬 기초 문법 (선수지식)](#section-0-파이썬-기초-문법-선수지식)
   - [1. 변수와 출력함수](#1-변수와-출력함수)
     - [1.1 변수](#11-변수)

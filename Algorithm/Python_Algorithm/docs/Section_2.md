@@ -1,6 +1,6 @@
 # Section 2. 코드 구현력 기르기
 
-📋 Table of Contents
+**📋 Table of Contents**
 - [Section 2. 코드 구현력 기르기](#section-2-코드-구현력-기르기)
   - [0. 선수지식 - 최솟값 구하기](#0-선수지식---최솟값-구하기)
   - [1. K번째 약수](#1-k번째-약수)
