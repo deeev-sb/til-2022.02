@@ -1,18 +1,5 @@
 # TIL (Today I Learned)
 
-<p>
-  <a href="https://subin-0320.tistory.com/">
-     <img alt="tistory" src="https://img.shields.io/badge/-Tistory-darkgreen?logo=github" />
-  </a>
-</p>
-
-<details>
-<summary>Github Stats🐤</summary>
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-SuBin)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
 ### 📕 Algorithm
 - Programmers
   <details><summary>Level1</summary>
