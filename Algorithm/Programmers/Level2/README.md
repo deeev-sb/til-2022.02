@@ -25,3 +25,4 @@
 ### MySQL
 - [최솟값 구하기](./solution_1.sql)
 - [동물 수 구하기](./solution_2.sql)
+- [중복제거하기](./solution_3.sql)
