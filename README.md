@@ -4,6 +4,8 @@
 - Programmers
   <details><summary>Level1</summary>
   
+  **Python**
+  
   - 두 정수 사이의 합
   - 문자열 내림차순으로 배치하기
   - 평균 구하기
@@ -45,8 +47,22 @@
   - 2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임
   - 2019 KAKAO BLIND RECRUITMENT 실패율
   
+  **MySQL**
+  
+  - 최댓갓 구하기
+  - 모든 레코트 조회하기
+  - 아픈 동물 찾기
+  - 어린 동물 찾기
+  - 동물의 아이디와 이름
+  - 이름이 없는 동물의 아이디
+  - 여러 기준으로 정렬하기
+  - 이름이 있는 동물의 아이디
+  - 상위 n개 레코드
+  
   </details>
   <details><summary>Level2</summary>
+   
+   **Python**
    
    - 최댓값과 최솟값
    - 올바른 괄호
@@ -58,6 +74,12 @@
    - 위장
    - 주식가격
    - 프린터
+   
+   **MySQL**
+   
+   - 최솟값 구하기
+   - 동물 수 구하기
+   - 중복제거하기
    
    </details>
 - Python Algorithm
