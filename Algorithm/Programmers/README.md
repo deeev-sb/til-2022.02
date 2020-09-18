@@ -9,3 +9,4 @@
 
 ### [Level 2](./Level2/README.md)
 - Python
+- MySQL
