@@ -9,3 +9,5 @@
 6. [씨름선수(그리디)](solution_6.py)
 7. [창고정리(그리디)](solution_7.py)
 8. [침몰하는타이타닉(그리디)](solution_8.py)
+9. [증가수열 만들기(그리디)](solution_9.py)
+10. [역수열(그리디)](solution_10.py)
