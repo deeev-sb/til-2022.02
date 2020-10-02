@@ -26,3 +26,4 @@
 - [최솟값 구하기](./solution_1.sql)
 - [동물 수 구하기](./solution_2.sql)
 - [중복제거하기](./solution_3.sql)
+- [고양이와 개는 몇 마리 있을까](./solution_4.sql)
