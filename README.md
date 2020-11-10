@@ -91,7 +91,7 @@
 - RecyclerView
 
 ### 📗 Spring
-- study-spring
+- 스프링 입문 (인프런 강의 현재 수강 중)
 
 ### 📘 Docker
 - What is Doker?
