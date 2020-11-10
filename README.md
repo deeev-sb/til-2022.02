@@ -90,8 +90,17 @@
 - QRcode
 - RecyclerView
 
+### 📗 Front
+- [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
+- [novle-works_clone](https://github.com/Kim-SuBin/novel-works_clone)
+- [doublesweet_clone](https://github.com/Kim-SuBin/doublesweet_clone)
+
 ### 📗 Spring
 - 스프링 입문 (인프런 강의 현재 수강 중)
+
+### 📗 Django
+- [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
+- [dreamary_clone](https://github.com/Kim-SuBin/dreamary_clone)
 
 ### 📘 Docker
 - What is Doker?
