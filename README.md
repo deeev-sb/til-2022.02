@@ -90,6 +90,10 @@
 - QRcode
 - RecyclerView
 
+### 📒 ML
+- MNIST 수행
+- Hyperparameter Tuning
+
 ### 📗 Front
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
 - [novle-works_clone](https://github.com/Kim-SuBin/novel-works_clone)
