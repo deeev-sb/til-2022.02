@@ -92,7 +92,7 @@
 
 ### 📒 ML
 - MNIST 수행
-- Hyperparameter Tuning
+- Hyperparameter Tuning (Tensorflow Keras 사용)
 
 ### 📗 Front
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
