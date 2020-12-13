@@ -94,7 +94,7 @@
 - MNIST 수행
 - Hyperparameter Tuning (Tensorflow Keras 사용)
 
-### 📗 Front
+### 📗 Front (UI/UX)
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
 - [novle-works_clone](https://github.com/Kim-SuBin/novel-works_clone)
 - [doublesweet_clone](https://github.com/Kim-SuBin/doublesweet_clone)
