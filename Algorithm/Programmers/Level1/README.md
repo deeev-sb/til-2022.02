@@ -4,6 +4,7 @@
 
 - [Level 1](#level-1)
     - [Python](#python)
+    - [Java](#java)
     - [C++](#c)
     - [MySQL](#mysql)
 
@@ -51,6 +52,22 @@
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](./solution(38).py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](./solution(39).py)
 - [2019 KAKAO BLIND RECRUITMENT 실패율](./solution(40).py)
+
+---
+
+### Java
+- [두 정수 사이의 합](./solution(1).java)
+- [문자열 내림차순으로 배치하기](./solution(2).java) (split, join, Arrays.sort, Collections.reverse)
+- [평균 구하기](./solution(3).java)
+- [약수의 합](./solution(4).java)
+- [짝수와 홀수](./solution(5).java)
+- [수박수박수박수박수박수?](./solution(6).java)
+- [자릿수 더하기](./solution(7).java)
+- [나누어 떨어지는 숫자 배열](./solution(8).java) (ArrayList<Interger>)
+- [제일 작은 수 제거하기](./solution(9).java)
+- [서울에서 김서방 찾기](./solution(10).java)
+- [가운데 글자 가져오기](./solution(11).java)
+- [같은 숫자는 싫어](./solution(12).java)
 
 ---
 
