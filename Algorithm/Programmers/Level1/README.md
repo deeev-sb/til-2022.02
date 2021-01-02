@@ -68,6 +68,7 @@
 - [서울에서 김서방 찾기](./solution(10).java)
 - [가운데 글자 가져오기](./solution(11).java)
 - [같은 숫자는 싫어](./solution(12).java)
+- [문자열 내 마음대로 정렬하기](./solution(13).java)
 
 ---
 

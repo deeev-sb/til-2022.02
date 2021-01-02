@@ -4,6 +4,7 @@
 
 - [Level 2](#level-2)
     - [Python](#python)
+    - [Java](#java)
     - [MySQL](#mysql)
 
 ---
@@ -19,6 +20,12 @@
 - [위장](./solution(8).py)
 - [주식가격](./solution(9).py)
 - [프린터](./solution(10).py)
+
+---
+
+### Java
+- [최댓값과 최솟값](./solution(1).java)
+- [올바른 괄호](./solution(2).java) (Stack<Character>)
 
 ---
 
