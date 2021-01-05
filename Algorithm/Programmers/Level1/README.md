@@ -71,6 +71,8 @@
 - [문자열 내 마음대로 정렬하기](./solution(13).java)
 - [문자열 내 p와 y의 개수](./solution(14).java)
 - [문자열을 정수로 바꾸기](./solution(15).java)
+- [문자열 다루기 기본](./solution(16).java)
+- [이상한 문자 만들기](./solution(17).java) (toUpperCase(), toLowerCase())
 
 ---
 
