@@ -110,14 +110,15 @@
 - What is Doker?
 - Get Docker Engine
 
-### 📘 Kubeflow
-- Kubeflow install
-
 ### 📘 Kubernetes
 - Kubernetes install
 - install on virtualbox
 - merics server
 - dashboard
+- 데브옵스(DevOps)를 위한 쿠버네티스 마스터 (인프런 강의 현재 수강 중)
+
+### 📘 Kubeflow
+- Kubeflow install
 
 ### ✔️ ETC
 - Nvidia Driver install and Update
