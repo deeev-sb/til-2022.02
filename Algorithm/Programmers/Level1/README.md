@@ -73,6 +73,12 @@
 - [문자열을 정수로 바꾸기](./solution(15).java)
 - [문자열 다루기 기본](./solution(16).java)
 - [이상한 문자 만들기](./solution(17).java) (toUpperCase(), toLowerCase())
+- [x만큼 간격이 있는 n개의 숫자](./solution(18).java)
+- [핸드폰 번호 가리기](./solution(19).java)
+- [직사각형 별찍기](./solution(20).java)
+- [정수 내림차순으로 배치하기](./solution(21).java)
+- [자연수 뒤집어 배열로 만들기](./solution(22).java)
+- [하샤드 수](./solution(23).java)
 
 ---
 
