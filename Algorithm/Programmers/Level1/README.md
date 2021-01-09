@@ -79,6 +79,8 @@
 - [정수 내림차순으로 배치하기](./solution(21).java)
 - [자연수 뒤집어 배열로 만들기](./solution(22).java)
 - [하샤드 수](./solution(23).java)
+- [정수 제곱근 판별](./solution(24).java) (제곱근 Math.sqrt())
+- [소수 찾기](./solution(25).java) (에라토스테네스의 체 활용)
 
 ---
 
