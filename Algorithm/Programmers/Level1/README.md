@@ -81,6 +81,11 @@
 - [하샤드 수](./solution(23).java)
 - [정수 제곱근 판별](./solution(24).java) (제곱근 Math.sqrt())
 - [소수 찾기](./solution(25).java) (에라토스테네스의 체 활용)
+- [최대공약수와 최소공배수](./solution(26).java)
+- [콜라츠 추측](./solution(27).java)
+- [행렬의 덧셈](./solution(28).java)
+- [2016년](./solution(29).java)
+- [시저 암호](./solution(30).java) (아스키코드 활용)
 
 ---
 
