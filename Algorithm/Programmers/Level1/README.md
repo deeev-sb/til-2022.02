@@ -86,6 +86,8 @@
 - [행렬의 덧셈](./solution(28).java)
 - [2016년](./solution(29).java)
 - [시저 암호](./solution(30).java) (아스키코드 활용)
+- [k번째 수](./solution(31).java) (copyOfRange를 활용하여 배열의 특정 구간을 복사)
+- [완주하지 못한 선수](./solution(32).java)
 
 ---
 
