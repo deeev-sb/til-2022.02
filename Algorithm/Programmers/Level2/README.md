@@ -26,6 +26,9 @@
 ### Java
 - [최댓값과 최솟값](./solution(1).java)
 - [올바른 괄호](./solution(2).java) (Stack<Character>)
+- [피보나치 수](./solution(3).java)
+- [최솟값 만들기](./solution(4).java)
+- [N개의 최소공배수](./solution(5).java) (최대공약수와 최소공배수를 함수로 만들어 사용)
 
 ---
 

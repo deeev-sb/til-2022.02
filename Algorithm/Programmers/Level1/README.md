@@ -89,6 +89,8 @@
 - [k번째 수](./solution(31).java) (copyOfRange를 활용하여 배열의 특정 구간을 복사)
 - [완주하지 못한 선수](./solution(32).java)
 - [모의고사](./solution(33).java) (array, list 모두 활용해서 푸는 문제)
+- [체육복](./solution(34).java)
+- [예산](./solution(35).java)
 
 ---
 
