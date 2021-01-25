@@ -2,9 +2,21 @@
 <a href="https://subin-0320.tistory.com/"><img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/social/tistory.svg" alt="tistory"/></a>
 
 ### 📕 Algorithm
+
+👉 [Algorithm Repository](https://github.com/Kim-SuBin/Algorithm)
+
+- [Programmers](https://github.com/Kim-SuBin/Algorithm/tree/main/Programmers)
+- [Python Algorithm](https://github.com/Kim-SuBin/Algorithm/tree/main/Python_Algorithm)
+- [VitaAlgo](https://github.com/Kim-SuBin/Algorithm/tree/main/VitaAlgo)
+
+<details><summary>past</summary>
+
+2021.01.25 기준 [Algorithm Repository](https://github.com/Kim-SuBin/Algorithm)로 문제 풀이를 옮김
 - [Python Algorithm](./Python_Algorithm)
 - [Programmers](./Programmers)
 - [VitaAlgo](./VitaAlgo)
+  
+</details>
 
 ### 📙 Android
 - ListView
