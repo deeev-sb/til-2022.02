@@ -39,6 +39,12 @@
 - [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
 - [dreamary_clone](https://github.com/Kim-SuBin/dreamary_clone)
 
+### 📗 DynamoDB
+👉 [블로그 가기](https://subin-0320.tistory.com/38)
+
+### 📘 AWS
+👉 [블로그 가기](https://subin-0320.tistory.com/34)
+
 ### 📘 Docker
 - What is Doker?
 - Get Docker Engine
