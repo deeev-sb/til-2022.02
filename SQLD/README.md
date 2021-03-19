@@ -52,7 +52,7 @@
 
 ### 제2장 SQL 활용
 
-[[제1절 표준 조인 (Standard JOIN)](./21.sqld.md)
+[제1절 표준 조인 (Standard JOIN)](./21.sqld.md)
 
 [제2절 집합 연산자 (SET Operator)](./22.sqld.md)
 
