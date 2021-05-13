@@ -4,6 +4,7 @@
 ### 🔥 Study
 - [Algorithm Study](https://github.com/WebProject-STT/Algorithm)
 - [CS Stydy](https://github.com/WebProject-STT/CS-Study)
+- [음성파일 텍스트변환 및 요약 웹플랫폼 프로젝트](https://github.com/WebProject-STT/Back-end)
 
 ### 📕 Algorithm
 
