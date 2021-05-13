@@ -1,6 +1,10 @@
 <h1>Today I Learned🐰</h1>
 <a href="https://subin-0320.tistory.com/"><img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/social/tistory.svg" alt="tistory"/></a>
 
+### 🔥 Study
+- [Algorithm Study](https://github.com/WebProject-STT/Algorithm)
+- [CS Stydy](https://github.com/WebProject-STT/CS-Study)
+
 ### 📕 Algorithm
 
 👉 [Algorithm Repository](https://github.com/Kim-SuBin/Algorithm)
