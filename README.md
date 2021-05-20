@@ -23,15 +23,6 @@
   
 </details>
 
-### 📙 Android
-- ListView
-- QRcode
-- RecyclerView
-
-### 📒 ML
-- MNIST 수행
-- Hyperparameter Tuning (Tensorflow Keras 사용)
-
 ### 📗 Front (UI/UX)
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
 - [novle-works_clone](https://github.com/Kim-SuBin/novel-works_clone)
@@ -39,8 +30,11 @@
 
 ### 📗 Spring
 - [스프링 실습](https://github.com/Kim-SuBin/springboot-study)
-- Spring Security
-- S3 File Upload
+  - [Spring Security](https://github.com/Kim-SuBin/springboot-study/tree/master/security-test)
+  - [S3 File Upload](https://github.com/Kim-SuBin/springboot-study/tree/master/file-upload)
+  - [Spring Security API](https://github.com/Kim-SuBin/springboot-study/tree/master/securityapi)
+  - [S3 File Upload API](https://github.com/Kim-SuBin/springboot-study/tree/master/file-upload-api)
+  - [Rest Template (외부 API 통신)](https://github.com/Kim-SuBin/springboot-study/tree/master/rest-template)
 - [스프링 입문](./Spring/spring-basic/01.Spring.md)
 
 ### 📗 Django
@@ -66,6 +60,15 @@
 
 ### 📘 Kubeflow
 - Kubeflow install
+
+### 📙 Android
+- ListView
+- QRcode
+- RecyclerView
+
+### 📒 ML
+- MNIST 수행
+- Hyperparameter Tuning (Tensorflow Keras 사용)
 
 ### 📚 SQLD
 - [SQLD 개념 정리](./SQLD/README.md)
