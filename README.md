@@ -13,6 +13,7 @@
 - [Programmers](https://github.com/Kim-SuBin/Algorithm/tree/main/Programmers)
 - [Python Algorithm](https://github.com/Kim-SuBin/Algorithm/tree/main/Python_Algorithm)
 - [VitaAlgo](https://github.com/Kim-SuBin/Algorithm/tree/main/VitaAlgo)
+- [알고리즘 정리](https://subin-0320.tistory.com/105)
 
 <details><summary>past</summary>
 
