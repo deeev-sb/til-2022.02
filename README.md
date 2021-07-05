@@ -77,3 +77,4 @@
 ### ✔️ ETC
 - Nvidia Driver install and Update
 - GitKraken을 활용한 Branch
+- [👉 다른 공부 기록 확인하러 가기](https://subin-0320.tistory.com/)
