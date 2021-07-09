@@ -38,6 +38,9 @@
   - [Rest Template (외부 API 통신)](https://github.com/Kim-SuBin/springboot-study/tree/master/rest-template)
 - [스프링 입문](./Spring/spring-basic/01.Spring.md)
 
+### 📗 Laravel
+- [[Laravel] 개발 환경 세팅하기 (feat. Bitnami)](https://subin-0320.tistory.com/122)
+
 ### 📗 Django
 - [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
 - [dreamary_clone](https://github.com/Kim-SuBin/dreamary_clone)
