@@ -24,6 +24,13 @@
   
 </details>
 
+### 📕 Java
+- [[Java] 입출력 정리](https://subin-0320.tistory.com/97?category=493861)
+
+### 📕 PHP
+- [[PHP] Bitnami로 PHP 환경 세팅하기](https://subin-0320.tistory.com/124)
+- [[PHP] PHP Storm 설정](https://subin-0320.tistory.com/125)
+
 ### 📗 Front (UI/UX)
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
 - [novle-works_clone](https://github.com/Kim-SuBin/novel-works_clone)
@@ -40,6 +47,7 @@
 
 ### 📗 Laravel
 - [[Laravel] 개발 환경 세팅하기 (feat. Bitnami)](https://subin-0320.tistory.com/122)
+- [[Laravel] PHP Storm 설정하기](https://subin-0320.tistory.com/126)
 
 ### 📗 Django
 - [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
