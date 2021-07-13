@@ -28,8 +28,9 @@
 - [[Java] 입출력 정리](https://subin-0320.tistory.com/97?category=493861)
 
 ### 📕 PHP
-- [[PHP] Bitnami로 PHP 환경 세팅하기](https://subin-0320.tistory.com/124)
-- [[PHP] PHP Storm 설정](https://subin-0320.tistory.com/125)
+- [Bitnami로 PHP 환경 세팅하기](https://subin-0320.tistory.com/124)
+- [PHP Storm 설정](https://subin-0320.tistory.com/125)
+- [첫 번째 PHP 애플리케이션 생성하기](https://subin-0320.tistory.com/127)
 
 ### 📗 Front (UI/UX)
 - [kakaobank_clone](https://github.com/Kim-SuBin/kakaobank_clone)
@@ -46,8 +47,8 @@
 - [스프링 입문](./Spring/spring-basic/01.Spring.md)
 
 ### 📗 Laravel
-- [[Laravel] 개발 환경 세팅하기 (feat. Bitnami)](https://subin-0320.tistory.com/122)
-- [[Laravel] PHP Storm 설정하기](https://subin-0320.tistory.com/126)
+- [개발 환경 세팅하기 (feat. Bitnami)](https://subin-0320.tistory.com/122)
+- [PHP Storm 설정하기](https://subin-0320.tistory.com/126)
 
 ### 📗 Django
 - [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
@@ -88,6 +89,6 @@
 ### ✔️ ETC
 - Nvidia Driver install and Update
 - GitKraken을 활용한 Branch
-
+- [[PhpStorm] Server Certificates 오류](https://subin-0320.tistory.com/128)
 
 [👉 다른 공부 기록 확인하러 가기](https://subin-0320.tistory.com/)
