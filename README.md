@@ -50,6 +50,7 @@
 ### 📗 Laravel
 - [개발 환경 세팅하기 (feat. Bitnami)](https://subin-0320.tistory.com/122)
 - [PHP Storm 설정하기](https://subin-0320.tistory.com/126)
+- [Laravel Goorm 강의 실습](https://github.com/Kim-SuBin/laravel-study)
 
 ### 📗 Django
 - [likelion 8th - Django Basic](https://github.com/Kim-SuBin/likelion8th-session/tree/master/Django-Basic)
