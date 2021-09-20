@@ -31,7 +31,7 @@
 - [Bitnami로 PHP 환경 세팅하기](https://subin-0320.tistory.com/124)
 - [PHP Storm 설정](https://subin-0320.tistory.com/125)
 - [첫 번째 PHP 애플리케이션 생성하기](https://subin-0320.tistory.com/127)
-- [PHP 문법 ](https://subin-0320.tistory.com/129)
+- [PHP 문법](https://subin-0320.tistory.com/129)
 
 ### 📕 JavaScript
 
@@ -59,10 +59,10 @@
 - [dreamary_clone](https://github.com/Kim-SuBin/dreamary_clone)
 
 ### 📗 DynamoDB
-👉 [블로그 가기](https://subin-0320.tistory.com/38)
+👉 [DynamoDB (블로그)](https://subin-0320.tistory.com/38)
 
 ### 📘 AWS
-👉 [블로그 가기](https://subin-0320.tistory.com/34)
+👉 [AWS 정리 (블로그)](https://subin-0320.tistory.com/34)
 
 ### 📘 Docker
 - What is Doker?
