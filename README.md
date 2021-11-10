@@ -6,6 +6,10 @@
 - [CS Stydy](https://github.com/WebProject-STT/CS-Study)
 - [음성파일 텍스트변환 및 요약 웹플랫폼 프로젝트](https://github.com/WebProject-STT/Back-end)
 
+### 👩‍💻 동아리
+- [멋쟁이사자처럼](https://github.com/Kim-SuBin/likelion8th-session)
+- [Depromeet(디프만) - BBOXX](https://github.com/depromeet/bboxx-backend)
+
 ### 📕 Algorithm
 
 👉 [Algorithm Repository](https://github.com/Kim-SuBin/Algorithm)
