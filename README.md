@@ -30,7 +30,7 @@
 
 ### 📕 Java
 - [[Java] 입출력 정리](https://subin-0320.tistory.com/97?category=493861)
-- [Java 8](./ava)
+- [Java 8](./Java)
 
 ### 📕 PHP
 - [Bitnami로 PHP 환경 세팅하기](https://subin-0320.tistory.com/124)
