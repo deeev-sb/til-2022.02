@@ -84,7 +84,7 @@
 - [데브옵스(DevOps)를 위한 쿠버네티스 마스터 (인프런 강의 현재 수강 중)](./KubernetesMaster)
 
 ### 📘 Kubeflow
-- Kubeflow install
+- [Kubeflow install](./Kubeflow)
 
 ### 📙 Android
 - ListView
