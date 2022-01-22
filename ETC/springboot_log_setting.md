@@ -18,3 +18,4 @@ logging.file.max-history=365
 # rolling 정책 (default=${LOG_FILE}.%d{yyyy-MM-dd}-%i.gz)
 logging.pattern.rolling-file-name=${LOG_FILE}.%d{yyyy-MM-dd}-%i.log
 ```
+만약 info와 error에 대해 분리해서 만들고 싶다면 xml을 생성해야 한다!
