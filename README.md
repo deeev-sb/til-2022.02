@@ -105,5 +105,6 @@
 - [GitBash 2.32.0 version Windows Install](https://subin-0320.tistory.com/115)
 - [GitKraken Instal](https://subin-0320.tistory.com/116)
 - [[Google Map] Google Map API Key 발급](https://subin-0320.tistory.com/133)
+- [무중단배포](https://github.com/Kim-SuBin/TIL/blob/master/ETC/%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC.md)
 
 [👉 다른 공부 기록 확인하러 가기](https://subin-0320.tistory.com/)
