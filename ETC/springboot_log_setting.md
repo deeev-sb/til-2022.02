@@ -19,3 +19,10 @@ logging.file.max-history=365
 logging.pattern.rolling-file-name=${LOG_FILE}.%d{yyyy-MM-dd}-%i.log
 ```
 만약 info와 error에 대해 분리해서 만들고 싶다면 xml을 생성해야 한다!
+
+log 파일이 리눅스 서버에서 정상적으로 생성되지 않는다면 로그 파일의 소유권을 변경하면 된다.
+```
+chown {소유자}:{소유그룹} {변경하려는 디렉토리}
+
+chown user:user /var/log/springlog
+```
