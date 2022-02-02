@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Algorithm</h1>
-  <h3>2021.01.25 기준 알고리즘 관련 내용은 [Algorithm](https://github.com/Kim-SuBin/Algorithm) Repository로 이동</h3>
+  <h3>2021.01.25 기준 알고리즘 관련 내용은 <a href="https://github.com/Kim-SuBin/Algorithm">Algorithm Repository</a>로 이동</h3>
   <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/languages/python.svg" alt="Python" />
   <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/languages/java.svg" alt="Java" />
   <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/system/mysql.svg" alt="MySQL" />
