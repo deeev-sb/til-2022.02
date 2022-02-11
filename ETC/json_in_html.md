@@ -25,4 +25,4 @@
 ```
 
 ### 🔗 참고
-![https://cotyhamilton.com/how-to-pretty-print-json-in-html-with-javascript/](https://cotyhamilton.com/how-to-pretty-print-json-in-html-with-javascript/)
+[https://cotyhamilton.com/how-to-pretty-print-json-in-html-with-javascript/](https://cotyhamilton.com/how-to-pretty-print-json-in-html-with-javascript/)
